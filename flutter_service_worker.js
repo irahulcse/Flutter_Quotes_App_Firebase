@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "c2583f680a72c1e122e977afa1c71b77",
+  "main.dart.js": "8d1ac0e41ed155be76d10969575acf92",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/LICENSE": "cc937e19f97102f4e611e9bd7732dae2",
