@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119291188249",
+    "firebase_url": "https://flutter-firebase-quotes-app.firebaseio.com",
+    "project_id": "flutter-firebase-quotes-app",
+    "storage_bucket": "flutter-firebase-quotes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119291188249:android:5deaaa3867db1d5112c688",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119291188249-lsfbsvv44vj7ifflls0cckl16iof1daa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase_quotes_app",
+            "certificate_hash": "f74167e2e5ec083060fcb37d8f23a09cfdc738d0"
+          }
+        },
+        {
+          "client_id": "119291188249-vudd37gksddj4t8cbiir59e1sv7kjrsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawkX_XvvmMziwROHJFu0BWk3vjwgDDX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119291188249-vudd37gksddj4t8cbiir59e1sv7kjrsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
